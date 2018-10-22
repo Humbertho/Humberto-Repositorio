@@ -1,0 +1,49 @@
+body {
+  color: #000000; /*dark grey*/
+  background-color: #EEEEEE; /*light grey*/  
+}
+
+.page
+{
+  text-align: center;
+}
+
+h1 {
+  font-size: 36px;
+}
+
+h2 {
+  font-size: 28px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Helvetica", "Arial", sans-serif;
+  font-style: italic;
+  font-weight: normal;
+}
+
+h1{
+  border-bottom:1px solid #5D6063;
+}
+
+strong {
+  /*background-color: #B2D6FF;    /* Light blue */
+  display: inline;
+  /*margin:50px;
+  padding:50px;*/
+
+}
+
+ul{
+  font-family: "Helvetica", "Arial", sans-serif;
+  font-style: italic;
+  font-weight: normal;
+}
+
+p{
+  font-family: "Helvetica", "Arial", sans-serif;
+  font-style: italic;
+  font-weight: normal;
+}
+
+
